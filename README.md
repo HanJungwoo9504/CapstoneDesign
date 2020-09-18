@@ -10,7 +10,10 @@
 
  ## 시스템 기능
 
-* Frontend: Android, HTML, JavaScript, CSS  
+* Frontend: 
+        Mobile: Android  
+        Web: HTML, JavaScript, CSS  
+
 * Backend: Node.js
 
  ![ASMR](https://user-images.githubusercontent.com/62544004/93577352-e8118000-f9d6-11ea-978d-08316a773b1c.png)
